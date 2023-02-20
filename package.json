@@ -1,0 +1,24 @@
+{
+	"name": "rollup-plugin-module",
+	"version": "0.0.0",
+	"description": "plugin to get rollup module info",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/linsk1998/rollup-plugin-module.git"
+	},
+	"keywords": [
+		"rollup",
+		"module",
+		"info"
+	],
+	"author": "linsk",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/linsk1998/rollup-plugin-module/issues"
+	},
+	"homepage": "https://github.com/linsk1998/rollup-plugin-module#readme"
+}
