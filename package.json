@@ -20,5 +20,8 @@
 	"bugs": {
 		"url": "https://github.com/linsk1998/rollup-plugin-module/issues"
 	},
-	"homepage": "https://github.com/linsk1998/rollup-plugin-module#readme"
+	"homepage": "https://github.com/linsk1998/rollup-plugin-module#readme",
+	"dependencies": {
+		"@rollup/pluginutils": "^4.1.2"
+	}
 }
