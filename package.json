@@ -1,6 +1,6 @@
 {
 	"name": "rollup-plugin-module",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "plugin to get rollup module info",
 	"main": "index.js",
 	"scripts": {
